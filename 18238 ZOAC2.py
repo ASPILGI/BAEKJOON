@@ -15,4 +15,5 @@ for i in n :
   result += min(left_value, right_value)
   start = i
 
+
 print(result)
