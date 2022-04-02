@@ -1,4 +1,4 @@
-n=int(input())
+n = int(input())
 
 max=list(map(int,input().split()))
 min=list(map(int,input().split()))
