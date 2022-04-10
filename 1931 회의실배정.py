@@ -16,3 +16,4 @@ for start, end in time:
 
 print(x)
 
+// 람다 형식 정리 //
